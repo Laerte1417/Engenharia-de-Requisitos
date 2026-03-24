@@ -71,6 +71,7 @@ Os principais problemas hoje são lentidão, retrabalho e erros manuais. Está
 correto? Fechada 
 Um sistema que cadastre alunos, acompanhe matrículas e emita documentos 
 automaticamente atenderia sua necessidade principal? Fechada 
+
  
 Atividade Prática 2 - Simulação de Entrevista 
 1. Roteiro utilizado com anotações 
@@ -100,6 +101,7 @@ Menos retrabalho, mais rapidez e  menos erros.
 Quais funções seriam mais úteis? 
 Busca rápida, cadastro  centralizado, emissão automática e  acompanhamento de status.
 
+
 3. Lista de requisitos identificados 
 RF - Requisitos Funcionais 
  O sistema deve cadastrar e atualizar dados dos alunos. 
@@ -120,6 +122,7 @@ RN - Regras de Negócio
  A emissão de documentos depende de cadastro válido do aluno. 
  Pendências devem ser verificadas antes da conclusão da matrícula. 
  Somente usuários autorizados podem emitir documentos oficiais. 
+
 
 4. Reflexão 
 A entrevista foi eficiente por seguir uma ordem lógica e permitir identificar rapidamente os principais 
