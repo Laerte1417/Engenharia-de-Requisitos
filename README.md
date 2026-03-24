@@ -9,8 +9,10 @@ Atividades Práticas - Entrevista e Levantamento de  Requisitos
 Atividade Prática 1 - Roteiro de Entrevista 
 
 Persona escolhida 
+
 Ana, Secretária Acadêmica - responsável por 
 matrículas e emissão de documentos. 
+
 Objetivo da entrevista 
 Levantar informações sobre o processo atual de 
 matrículas 
@@ -20,37 +22,47 @@ e emissão de documentos,
 identificando 
 Roteiro de entrevista semiestruturada 
 Contexto 
+
 Pergunta 
-Tipo 
+ 
 Você pode explicar sua função na secretaria e quais atividades realiza com mais 
 frequência? 
 Aberta 
+
 Em média, quantos alunos você atende por dia para matrícula ou solicitação de 
 documentos? 
 Aberta 
+
 Hoje o processo é feito totalmente em sistema ou parte ainda é manual? 
 Fechada 
+
 Processo atual 
-Pergunta 
+ 
 Tipo 
 Como funciona atualmente o processo de matrícula, do início ao fim? 
 Quais etapas costumam gerar mais dificuldade ou erros? 
 Aberta 
+
 A emissão de documentos normalmente é concluída no mesmo dia? 
 Aberta 
+
 Quais dados precisam ser conferidos antes de emitir um documento? 
 Fechada 
+
 Existe retrabalho frequente para corrigir cadastros ou refazer documentos? 
 Aberta 
 Fechada 
-Necessidades 
-Pergunta 
-Tipo 
+
+
 Que dificuldades do processo atual você gostaria que um novo sistema 
 resolvesse? Aberta 
+
 Quais funcionalidades seriam mais importantes para facilitar seu trabalho? Aberta 
+
 Seria útil gerar documentos automaticamente com base nos dados do aluno? Fechada 
+
 É importante acompanhar o status da matrícula e das solicitações? Fechada 
+
 Que avisos o sistema deveria mostrar para evitar erros ou pendências? Aberta 
  
 Validação 
