@@ -1,10 +1,13 @@
 # Engenharia-de-Requisitos
 
-Alunos: Laerte de Lara, Tiago Faleiros, João Pedro Chiroli, João Lucas Martins e 
+Alunos: 
+Laerte de Lara, Tiago Faleiros, João Pedro Chiroli, João Lucas Martins e 
 Matheus thomaz 
-Atividades Práticas - Entrevista e Levantamento de 
-Requisitos 
+
+Atividades Práticas - Entrevista e Levantamento de  Requisitos 
+
 Atividade Prática 1 - Roteiro de Entrevista 
+
 Persona escolhida 
 Ana, Secretária Acadêmica - responsável por 
 matrículas e emissão de documentos. 
